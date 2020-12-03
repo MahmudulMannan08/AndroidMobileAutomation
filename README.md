@@ -2,8 +2,11 @@
 ## Angular / Non-Angular browser and Android Mobile web and application automation
 
 **Development IDE:** Visual Studio
+
 **Automation Framework:** Specflow, Selenium Webdriver(non-Angular driver), Appium(mobile driver), Protractor(Angular driver)
+
 **Programming Language:** C#, Gherkin
+
 **Required Apps**: Android Studio, Android Virtual Device(AVD), Appium Desktop
 
 
