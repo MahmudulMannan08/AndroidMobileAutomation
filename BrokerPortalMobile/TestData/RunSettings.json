@@ -1,0 +1,171 @@
+{
+  "Settings": {
+
+    "Environment": "PREPROD", //RQA1, PREPROD, PROD, DR
+
+    "BrokerDetails": {
+
+      "RQA1": {
+
+        "BrokerPortal": "http://iisprillcundqa1.prefirstcdn.com/BrokerIMProfile/login",
+        "BrokerUsername": "adeveloper1",
+        "BrokerPassword": "Itmagnet-03",
+        "BrokerIDNo": "100003696",
+        "BrokerCRMFirstName": "Maria",
+        "BrokerCRMLastName": "Diaz",
+        "BrokerCRMEmail": "LLCTestAutomation03@fct.ca",
+        "BrokerAdminUsername": "abrokeradmin1",
+        "BrokerAdminPassword": "Itmagnet-03",
+        "BrokerAdminIDNo": "100003703",
+        "BrokerAdminCRMFirstName": "Maria",
+        "BrokerAdminCRMLastName": "Lento"
+      },
+
+      "PREPROD": {
+
+        "BrokerPortal": "https://identitymanagersg.prefirstcdn.com/BrokerIMProfile/login",
+        "BrokerUsername": "abroker4",
+        "BrokerPassword": "Itmagnet-03",
+        "BrokerIDNo": "100004297",
+        "BrokerCRMFirstName": "Maria",
+        "BrokerCRMLastName": "Lio",
+        "BrokerCRMEmail": "LLCTestAutomation03@fct.ca",
+        "BrokerName": "Automation Broker4",
+        "BrokerAdminUsername": "abrokeradmin4",
+        "BrokerAdminPassword": "Itmagnet-04",
+        "BrokerAdminIDNo": "100004421",
+        "BrokerAdminCRMFirstName": "Maria",
+        "BrokerAdminCRMLastName": "Doldo",
+        //"BrokerToDelegateUsername": "abroker44",
+        //"BrokerToDelegatePassword": "Itmagnet-03",
+        //"BrokerDelegateCRMFirstName": "Marian",
+        //"BrokerDelegateCRMLastName": "Clendenning",
+        //"BrokerDelegateName": "Automation Broker44",
+        "BrokerToDelegateUsername": "abroker55",
+        "BrokerToDelegatePassword": "Itmagnet-03",
+        "BrokerDelegateCRMFirstName": "Janet",
+        "BrokerDelegateCRMLastName": "Porteous",
+        "BrokerDelegateName": "Automation Broker55",
+        "InactiveBrokerUsername": "ibroker4",
+        "InactiveBrokerPassword": "Itmagnet-03",
+        "DeclinedBrokerUsername": "dbroker4",
+        "DeclinedBrokerPassword": "Itmagnet-03",
+        "LockedBrokerUsername": "lbroker4",
+        "LockedBrokerPassword": "Itmagnet-03"
+      },
+
+      "PROD": {
+
+        "BrokerPortal": "",
+        "BrokerUsername": "",
+        "BrokerPassword": "Itmagnet-03",
+        "BrokerIDNo": "",
+        "BrokerCRMFirstName": "",
+        "BrokerCRMLastName": "",
+        "BrokerCRMEmail": "LLCTestAutomation01@fct.ca",
+        "BrokerAdminUsername": "",
+        "BrokerAdminPassword": "",
+        "BrokerAdminIDNo": "",
+        "BrokerAdminCRMFirstName": "",
+        "BrokerAdminCRMLastName": ""
+      },
+
+      "DR": {
+
+        "BrokerPortal": "",
+        "BrokerUsername": "",
+        "BrokerPassword": "Itmagnet-03",
+        "BrokerIDNo": "",
+        "BrokerCRMFirstName": "",
+        "BrokerCRMLastName": "",
+        "BrokerCRMEmail": "LLCTestAutomation01@fct.ca",
+        "BrokerAdminUsername": "",
+        "BrokerAdminPassword": "",
+        "BrokerAdminIDNo": "",
+        "BrokerAdminCRMFirstName": "",
+        "BrokerAdminCRMLastName": ""
+      }
+    },
+
+    "LenderDetails": {
+
+      "MMSLender": {
+
+        "RQA1": {
+
+          "MMSPortal": "http://iisprimmsiqa01.exfirstcdn.com/FCTPortal/Signon.aspx",
+          "MMSUsername": "testabcd",
+          "MMSPassword": "Password1",
+          "MMSLenderName": "Paradigm Quest Inc."
+        },
+
+        "PREPROD": {
+
+          "MMSPortal": "http://mmsintsg.prefirstcdn.com/FCTPortal/SignOn.aspx",
+          "MMSUsername": "testabcd",
+          "MMSPassword": "Password1",
+          "MMSLenderName": "Paradigm Quest Inc."
+        },
+
+        "PROD": {
+
+          "MMSPortal": "",
+          "MMSUsername": "",
+          "MMSPassword": "",
+          "MMSLenderName": ""
+        },
+
+        "DR": {
+
+          "MMSPortal": "",
+          "MMSUsername": "",
+          "MMSPassword": "",
+          "MMSLenderName": ""
+        }
+      },
+
+      "MotionLender": {
+
+        "RQA1": {
+
+          "MotionPortal": "http://iisprimotqa01.prefirstcdn.com/motion/titleofficer",
+          "MotionUsername": "",
+          "MotionPassword": ""
+        },
+
+        "PREPROD": {
+
+          //"MotionPortal": "https://motsglb.prefirstcdn.com/Motion/TitleOfficer/",
+          "MotionPortal": "http://motsglb.prefirstcdn.com/Motion/TitleOfficer/motion2000.htm?2578;mmannan;false",
+          "MotionUsername": "mmannan",
+          "MotionPassword": "",
+          //"MotionTitleOfficer": "BNS-ON",
+          //"MotionProgram": "Bank of Nova Scotia - Collateral ON",
+          "MotionTitleOfficer": "BNS-AB",
+          "MotionProgram": "Bank of Nova Scotia - Collateral AB"
+        },
+
+        "PROD": {
+
+          "MotionPortal": "",
+          "MotionUsername": "",
+          "MotionPassword": ""
+        },
+
+        "DR": {
+
+          "MotionPortal": "",
+          "MotionUsername": "",
+          "MotionPassword": ""
+        }
+      }
+    },
+
+    "OutlookDetails": {
+
+      "OutlookURL": "https://webmail.fct.ca/owa/auth/logon.aspx/",
+      "OutlookUsername": "LLCTestAutomation03",
+      "OutlookPassword": "FCT1235!"
+    }
+  }
+}

@@ -1,0 +1,128 @@
+﻿2020-11-30T09:36:54.4006817-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-11-30T09:36:54.4006817-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.48 in Framework clr40 in x86 mode execution started
+2020-11-30T09:36:54.4006817-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\QA_Script\TestAutomationScripts\BrokerPortalMobile\packages\SpecRun.Runner.3.1.48\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-11-30T09:36:54.5382862-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\QA_Script\TestAutomationScripts\BrokerPortalMobile\BrokerPortalMobile\bin\Debug\BrokerPortalMobile.dll
+2020-11-30T09:36:54.5382862-05:00;VSTestExecutionThread;Info;Output folder configured to "C:\QA_Script\TestAutomationScripts\BrokerPortalMobile\TestResults" (default)
+2020-11-30T09:36:54.5382862-05:00;VSTestExecutionThread;Info;Profile: BrokerPortalMobile
+2020-11-30T09:36:54.5572333-05:00;VSTestExecutionThread;Info;Log file path: C:\QA_Script\TestAutomationScripts\BrokerPortalMobile\TestResults\BrokerPortalMobile_BrokerPortalMobile_2020-11-30T093654.log
+2020-11-30T09:36:54.5772070-05:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-11-30T09:36:54.5821929-05:00;Thread#13;Info;Checking license
+2020-11-30T09:36:54.5951334-05:00;Thread#13;Info;Evaluation mode: test execution starts in 6 seconds... (this delay is removed in the registered version)
+2020-11-30T09:37:00.5958844-05:00;Thread#13;Info;Evaluation delay finished.
+2020-11-30T09:37:00.5998750-05:00;Thread#13;Info;License check completed
+2020-11-30T09:37:00.5998750-05:00;Thread#13;Info;starting test run
+2020-11-30T09:37:00.6417621-05:00;Thread#13;Info;Discovering target: Default
+2020-11-30T09:37:00.6417621-05:00;Thread#13;Info;Discovering tests from assembly: C:\QA_Script\TestAutomationScripts\BrokerPortalMobile\BrokerPortalMobile\bin\Debug\BrokerPortalMobile.dll
+2020-11-30T09:37:01.3954741-05:00;Thread#13;Info;Discovered tests from assembly: C:\QA_Script\TestAutomationScripts\BrokerPortalMobile\BrokerPortalMobile\bin\Debug\BrokerPortalMobile.dll
+2020-11-30T09:37:01.3964727-05:00:Test Suite Dump
+2020-11-30T09:37:01.3974994-05:00:#0: BrokerPortalMobile/BrokerPortalMobile - 
+2020-11-30T09:37:01.3974994-05:00:#1: Default - 
+2020-11-30T09:37:01.3974994-05:00:#2: BrokerPortalMobile - 
+2020-11-30T09:37:01.3974994-05:00:#3: Motion_Alerts_Notes - 
+2020-11-30T09:37:01.4323747-05:00:#4: Motion Note with checked Broker Alert - TestAssembly:BrokerPortalMobile/Feature:Motion_Alerts_Notes/Scenario:Motion+Note+with+checked+Broker+Alert
+2020-11-30T09:37:01.4323747-05:00:End: Test Suite Dump
+2020-11-30T09:37:01.4593043-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-11-30T09:37:01.4613297-05:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-11-30T09:37:01.4613297-05:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-11-30T09:37:01.4663288-05:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-11-30T09:37:01.4663288-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-11-30T09:37:01.4663288-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-11-30T09:37:01.4663288-05:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-11-30T09:37:01.4673266-05:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-11-30T09:37:01.4692766-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-11-30T09:37:01.4713169-05:00:Thread #0: creating new test thread executor for BrokerPortalMobile, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-11-30T09:37:01.4733105-05:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-11-30T09:37:01.5161525-05:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-11-30T09:37:01.5171512-05:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2020-11-30T09:37:02.2811685-05:00:Thread#0:T:-> Loading plugin C:\QA_Script\TestAutomationScripts\BrokerPortalMobile\BrokerPortalMobile\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-11-30T09:37:02.3190619-05:00:Thread#0:T:-> Using default config
+2020-11-30T09:37:03.0338102-05:00:Thread#0: Test #4/0 is started on thread #0
+2020-11-30T09:37:03.2332808-05:00:Thread#0:B:Given I go to Motion portal
+2020-11-30T09:37:30.0848294-05:00:Thread#0:T:done: MotionLogin_Steps.GivenIGoToMotionPortal() (26.8s)
+2020-11-30T09:37:30.1097633-05:00:Thread#0:B:Then I select Title Officer on Motion Portal
+2020-11-30T09:38:20.2539515-05:00:Thread#0:T:Expected element was not visible Timed out after 30 seconds
+2020-11-30T09:38:45.3477563-05:00:Thread#0:T:Exeception occurred while trying to switch to frame: Unable to find element with css selector == #fraToolbar
+2020-11-30T09:38:51.2393100-05:00:Thread#0:T:done: MotionHome_Steps.ThenISelectTitleOfficerOnMotionPortal() (81.1s)
+2020-11-30T09:38:51.2442976-05:00:Thread#0:B:Then I select program and lender for new order on Motion Portal
+2020-11-30T09:39:05.9702660-05:00:Thread#0:T:done: MotionDealDetails_Steps.ThenISelectProgramAndLenderForNewOrderOnMotionPortal() (14.7s)
+2020-11-30T09:39:05.9722278-05:00:Thread#0:B:And I submit new order on Motion Portal
+2020-11-30T09:39:16.1437482-05:00:Thread#0:T:Expected element was not visible Timed out after 10 seconds
+2020-11-30T09:40:23.2456858-05:00:Thread#0:T:done: MotionDealDetails_Steps.ThenISubmitNewOrderOnMotionPortal() (77.3s)
+2020-11-30T09:40:23.2496528-05:00:Thread#0:B:Then I locate Motion deal and get FCTURN on Motion Portal
+2020-11-30T09:41:26.0683278-05:00:Thread#0:T:done: MotionHome_Steps.ThenILocateMotionDealAndGetFCTURNOnMotionPortal() (62.8s)
+2020-11-30T09:41:26.0713204-05:00:Thread#0:B:Then I approve Motion deal on Motion Portal
+2020-11-30T09:41:32.0680291-05:00:Thread#0:T:done: MotionHome_Steps.ThenIApproveMotionDealOnMotionPortal() (6.0s)
+2020-11-30T09:41:32.0710202-05:00:Thread#0:B:And I search deal on Motion Portal
+2020-11-30T09:41:41.5825115-05:00:Thread#0:T:done: MotionHome_Steps.ThenISearchDealOnMotionPortal() (9.5s)
+2020-11-30T09:41:41.5845059-05:00:Thread#0:B:Then I assign Motion deal to broker
+2020-11-30T09:43:16.9604263-05:00:Thread#0:T:done: MotionLender_Steps.ThenIAssignMotionDealToBroker() (95.4s)
+2020-11-30T09:43:16.9634125-05:00:Thread#0:B:Then I add Motion note with broker alert
+2020-11-30T09:44:04.6532513-05:00:Thread#0:T:done: MotionNotes_Steps.ThenIAddMotionNoteWithBrokerAlert() (47.7s)
+2020-11-30T09:44:04.6607433-05:00:Thread#0:B:And I close Motion Portal
+2020-11-30T09:44:06.2669321-05:00:Thread#0:T:done: MotionLogin_Steps.ThenICloseMotionPortal() (1.6s)
+2020-11-30T09:44:06.2709523-05:00:Thread#0:B:Given I go to Broker Portal on Android Emulator Browser
+2020-11-30T09:44:23.6755512-05:00:Thread#0:T:done: BPLoginLogout_Steps.GivenIGoToBrokerPortalOnAndroidEmulatorBrowser() (17.4s)
+2020-11-30T09:44:23.6785403-05:00:Thread#0:B:Then I login to Broker Portal on Android Emulator Browser
+2020-11-30T09:44:42.8566149-05:00:Thread#0:T:done: BPLoginLogout_Steps.ThenILoginToBrokerPortalOnAndroidEmulatorBrowser() (19.2s)
+2020-11-30T09:44:42.8596044-05:00:Thread#0:B:And I select FCT closed deals tab
+2020-11-30T09:45:16.9078199-05:00:Thread#0:T:done: BPLoginLogout_Steps.ThenISelectFCTClosedDealsTab() (34.0s)
+2020-11-30T09:45:16.9108137-05:00:Thread#0:B:Then I get Action Required bucket count
+2020-11-30T09:45:16.9816488-05:00:Thread#0:T:done: BPHomePage_Steps.ThenIGetActionRequiredBucketCount() (0.1s)
+2020-11-30T09:45:16.9846146-05:00:Thread#0:B:Then I search Motion deal on broker portal
+2020-11-30T09:45:35.3192829-05:00:Thread#0:T:done: BPHomePage_Steps.ThenISearchMotionDealOnBrokerPortal() (18.3s)
+2020-11-30T09:45:35.3222743-05:00:Thread#0:B:And I verify alert icon on deal list page
+2020-11-30T09:45:45.3750921-05:00:Thread#0:T:done: BPHomePage_Steps.ThenIVerifyAlertIconOnDealListPage() (10.0s)
+2020-11-30T09:45:45.3821037-05:00:Thread#0:B:Then I go to Motion deal details page on broker portal
+2020-11-30T09:45:57.1002244-05:00:Thread#0:T:done: BPHomePage_Steps.ThenIGoToMotionDealDetailsPageOnBrokerPortal() (11.7s)
+2020-11-30T09:45:57.1022502-05:00:Thread#0:B:And I verify Action Required section for Motion broker alert available
+2020-11-30T09:45:57.4652507-05:00:Thread#0:T:done: BPDealDetails_Steps.ThenIVerifyActionRequiredSectionForMotionBrokerAlertAvailable() (0.4s)
+2020-11-30T09:45:57.4682424-05:00:Thread#0:B:Then I acknowledge NO to broker alert
+2020-11-30T09:46:09.1045670-05:00:Thread#0:T:done: BPDealDetails_Steps.ThenIAcknowledgeNOToBrokerAlert() (11.6s)
+2020-11-30T09:46:09.1075593-05:00:Thread#0:B:Then I navigate back on android
+2020-11-30T09:46:09.3149731-05:00:Thread#0:T:done: BPHomePage_Steps.ThenINavigateBackOnAndroid() (0.2s)
+2020-11-30T09:46:09.3189650-05:00:Thread#0:B:And I select FCT closed deals tab
+2020-11-30T09:46:30.0348262-05:00:Thread#0:T:done: BPLoginLogout_Steps.ThenISelectFCTClosedDealsTab() (20.7s)
+2020-11-30T09:46:30.0378494-05:00:Thread#0:B:Then I verify Action Required bucket count
+2020-11-30T09:46:30.1076621-05:00:Thread#0:T:done: BPHomePage_Steps.ThenIVerifyActionRequiredBucketCount() (0.1s)
+2020-11-30T09:46:30.1106939-05:00:Thread#0:B:Then I search Motion deal on broker portal
+2020-11-30T09:46:37.4231547-05:00:Thread#0:T:done: BPHomePage_Steps.ThenISearchMotionDealOnBrokerPortal() (7.3s)
+2020-11-30T09:46:37.4261462-05:00:Thread#0:B:Then I go to Motion deal details page on broker portal
+2020-11-30T09:46:38.9048325-05:00:Thread#0:T:done: BPHomePage_Steps.ThenIGoToMotionDealDetailsPageOnBrokerPortal() (1.5s)
+2020-11-30T09:46:38.9078240-05:00:Thread#0:B:And I verify Action Required section for Motion broker alert available
+2020-11-30T09:46:39.2251162-05:00:Thread#0:T:done: BPDealDetails_Steps.ThenIVerifyActionRequiredSectionForMotionBrokerAlertAvailable() (0.3s)
+2020-11-30T09:46:39.2311010-05:00:Thread#0:B:Then I acknowledge YES to Motion broker alert
+2020-11-30T09:47:03.7937398-05:00:Thread#0:T:done: BPDealDetails_Steps.ThenIAcknowledgeYESToMotionBrokerAlert() (24.6s)
+2020-11-30T09:47:03.7967315-05:00:Thread#0:B:Then I navigate back on android
+2020-11-30T09:47:04.0246361-05:00:Thread#0:T:done: BPHomePage_Steps.ThenINavigateBackOnAndroid() (0.2s)
+2020-11-30T09:47:04.0306198-05:00:Thread#0:B:And I select FCT closed deals tab
+2020-11-30T09:47:35.0962564-05:00:Thread#0:T:done: BPLoginLogout_Steps.ThenISelectFCTClosedDealsTab() (31.1s)
+2020-11-30T09:47:35.0992775-05:00:Thread#0:B:Then I verify Action Required bucket count decreased
+2020-11-30T09:47:35.1730824-05:00:Thread#0:T:done: BPHomePage_Steps.ThenIVerifyActionRequiredBucketCountDecreased() (0.1s)
+2020-11-30T09:47:35.1770392-05:00:Thread#0:B:And I logout from Broker Portal on Android Emulator Browser
+2020-11-30T09:47:49.7298857-05:00:Thread#0:T:done: BPLoginLogout_Steps.ThenILogoutFromBrokerPortalOnAndroidEmulatorBrowser() (14.5s)
+2020-11-30T09:47:49.8844732-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-11-30T09:47:49.8854704-05:00:Thread#:Scheduler: at the end of normal test queue
+2020-11-30T09:47:49.8854704-05:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-11-30T09:47:49.8854704-05:00:Thread#0:Scheduler: No more tests for thread
+2020-11-30T09:47:58.6293839-05:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 655.5955737 seconds
+2020-11-30T09:47:58.7819752-05:00:Trying to cancel thread
+2020-11-30T09:47:58.7819752-05:00:Thread cancelled
+2020-11-30T09:47:58.7989292-05:00:Thread#-1:Scheduler: get next test for thread -1
+2020-11-30T09:47:58.7989292-05:00:Thread#:Scheduler: at the end of normal test queue
+2020-11-30T09:47:58.7989292-05:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-11-30T09:47:58.8079047-05:00;Thread#13;Info;test run finished
+2020-11-30T09:47:58.8079047-05:00;Thread#13;Info;publishing test results
+2020-11-30T09:47:59.1266024-05:00;Thread#13;Info;test results published
+2020-11-30T09:47:59.1266024-05:00;Thread#13;Info;generating reports
+2020-11-30T09:47:59.2658655-05:00;Thread#13;Info;Starting external report generation process
+2020-11-30T09:48:39.0531817-05:00;Thread#13;Info;Successfully generated reports.
+2020-11-30T09:48:39.0930754-05:00;Thread#13;Info;Successfully generated reports
+2020-11-30T09:48:39.1249901-05:00:Total: 1
+2020-11-30T09:48:39.1279823-05:00:Succeeded: 1
+2020-11-30T09:48:39.1289796-05:00:Ignored: 0
+2020-11-30T09:48:39.1299770-05:00:Pending: 0
+2020-11-30T09:48:39.1299770-05:00:Skipped: 0
+2020-11-30T09:48:39.1299770-05:00:Failed: 0
+2020-11-30T09:48:39.1579023-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-11-30T09:48:39.1579023-05:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\QA_Script\TestAutomationScripts\BrokerPortalMobile\TestResults\BrokerPortalMobile_BrokerPortalMobile_2020-11-30T093654.html'
+========== End of log file ==========

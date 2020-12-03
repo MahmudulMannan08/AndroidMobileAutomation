@@ -1,0 +1,63 @@
+{
+  "Settings": {
+
+    "BrokerData": {
+
+      "NoResultFoundMessage": "No results were found matching your search criteria.",
+      "BrokerAlertReply": "Broker alert reply from automation",
+      "BrokerNewNote": "Broker new note by broker from automation",
+      "BrokerNewNote2": "Broker new note 2 by broker from automation"
+    },
+
+    "LenderData": {
+
+      "MMSLender": {
+
+        "MMSNote": "AST mortgage saved to folder.",
+        "MMSNote2": "Emailed Lender for File Complete",
+        "MMSCustomNote": "MMS custom note from automation.",
+        "PropertyAddress1": "China Town",
+        "PropertyCity": "Toronto",
+        "PropertyProvince": "ONTARIO",
+        "PropertyPostalCode": "L4X 2H8",
+        "MortgagorAddress1": "Tomken Road",
+        "MortgagorCity": "Toronto",
+        "MortgagorProvince": "ONTARIO",
+        "MortgagorPostalCode": "L4X 2H6"
+      },
+
+      "MotionLender": {
+
+        "RSCMOSE": "71001",
+        "MortgagorBusinessPhoneNo": "4366994827",
+        "MortgagorAddress": "4827 Haven Road",
+        "MortgagorCity": "Toronto",
+        "MortgagorProvince": "ONTARIO",
+        "MortgagorPostalCode": "L4Z 2H4",
+        "MortgagorServicePhone": "4388442846",
+        "PropertyLegalDesc": "Property legal desc",
+        "PropertyPIN": "192837468",
+        "PropertyTypeOfEstate": "Fee Simple",
+        "PropertyPostalCode": "L4Z 2H5",
+        "MortgageProduct": "Standalone Mortgage",
+        "MortgageAmount": "50000",
+        "ExistingMortgageAmount": "5000",
+        "ExistingMortgagee": "Bank of Nova Scotia",
+        "MortgagePrimeRate": "5",
+        "OriginatingBranchNo": "77966",
+        "OriginatingContactFirst": "Origfirst",
+        "OriginatingContactLast": "Origlast",
+        "SigningBranchNo": "20081",
+        "SigningContactFirst": "Signfirst",
+        "SigningContactLast": "Signlast",
+        "SigningPhone": "4366991846",
+        "DealSource": "Branch",
+        "PropertyAddress": "36 Eglington Rd",
+        //"PropertyCity": "Toronto"
+        "PropertyCity": "Vancouver",
+        "MotionNote": "Motion note added from automation script",
+        "MotionNote2": "Motion note2 added from automation script"
+      }
+    }
+  }
+}
