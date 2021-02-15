@@ -9,13 +9,13 @@
 
         "BrokerPortal": "http://iisprillcundqa1.prefirstcdn.com/BrokerIMProfile/login",
         "BrokerUsername": "adeveloper1",
-        "BrokerPassword": "Itmagnet-03",
+        "BrokerPassword": "",
         "BrokerIDNo": "100003696",
         "BrokerCRMFirstName": "Maria",
         "BrokerCRMLastName": "Diaz",
         "BrokerCRMEmail": "LLCTestAutomation03@fct.ca",
         "BrokerAdminUsername": "abrokeradmin1",
-        "BrokerAdminPassword": "Itmagnet-03",
+        "BrokerAdminPassword": "",
         "BrokerAdminIDNo": "100003703",
         "BrokerAdminCRMFirstName": "Maria",
         "BrokerAdminCRMLastName": "Lento"
@@ -25,40 +25,40 @@
 
         "BrokerPortal": "https://identitymanagersg.prefirstcdn.com/BrokerIMProfile/login",
         "BrokerUsername": "abroker4",
-        "BrokerPassword": "Itmagnet-03",
+        "BrokerPassword": "",
         "BrokerIDNo": "100004297",
         "BrokerCRMFirstName": "Maria",
         "BrokerCRMLastName": "Lio",
         "BrokerCRMEmail": "LLCTestAutomation03@fct.ca",
         "BrokerName": "Automation Broker4",
         "BrokerAdminUsername": "abrokeradmin4",
-        "BrokerAdminPassword": "Itmagnet-04",
+        "BrokerAdminPassword": "",
         "BrokerAdminIDNo": "100004421",
         "BrokerAdminCRMFirstName": "Maria",
         "BrokerAdminCRMLastName": "Doldo",
         //"BrokerToDelegateUsername": "abroker44",
-        //"BrokerToDelegatePassword": "Itmagnet-03",
+        //"BrokerToDelegatePassword": "",
         //"BrokerDelegateCRMFirstName": "Marian",
         //"BrokerDelegateCRMLastName": "Clendenning",
         //"BrokerDelegateName": "Automation Broker44",
         "BrokerToDelegateUsername": "abroker55",
-        "BrokerToDelegatePassword": "Itmagnet-03",
+        "BrokerToDelegatePassword": "",
         "BrokerDelegateCRMFirstName": "Janet",
         "BrokerDelegateCRMLastName": "Porteous",
         "BrokerDelegateName": "Automation Broker55",
         "InactiveBrokerUsername": "ibroker4",
-        "InactiveBrokerPassword": "Itmagnet-03",
+        "InactiveBrokerPassword": "",
         "DeclinedBrokerUsername": "dbroker4",
-        "DeclinedBrokerPassword": "Itmagnet-03",
+        "DeclinedBrokerPassword": "",
         "LockedBrokerUsername": "lbroker4",
-        "LockedBrokerPassword": "Itmagnet-03"
+        "LockedBrokerPassword": ""
       },
 
       "PROD": {
 
         "BrokerPortal": "",
         "BrokerUsername": "",
-        "BrokerPassword": "Itmagnet-03",
+        "BrokerPassword": "",
         "BrokerIDNo": "",
         "BrokerCRMFirstName": "",
         "BrokerCRMLastName": "",
@@ -74,7 +74,7 @@
 
         "BrokerPortal": "",
         "BrokerUsername": "",
-        "BrokerPassword": "Itmagnet-03",
+        "BrokerPassword": "",
         "BrokerIDNo": "",
         "BrokerCRMFirstName": "",
         "BrokerCRMLastName": "",
@@ -95,7 +95,7 @@
 
           "MMSPortal": "http://iisprimmsiqa01.exfirstcdn.com/FCTPortal/Signon.aspx",
           "MMSUsername": "testabcd",
-          "MMSPassword": "Password1",
+          "MMSPassword": "",
           "MMSLenderName": "Paradigm Quest Inc."
         },
 
@@ -103,7 +103,7 @@
 
           "MMSPortal": "http://mmsintsg.prefirstcdn.com/FCTPortal/SignOn.aspx",
           "MMSUsername": "testabcd",
-          "MMSPassword": "Password1",
+          "MMSPassword": "",
           "MMSLenderName": "Paradigm Quest Inc."
         },
 
